@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=yubarajkalathoki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yubarajkalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=radical" alt="Yubaraj's Github Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yubarajkalathoki&hide=html, shell&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yubarajkalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=" alt="Yubaraj's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yubarajkalathoki&hide=html,css, shell&theme=" alt="Top Languages" />
 </a>
