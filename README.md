@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Yuba Raj Kalathoki a Software Developer from Nepal.
 
 <!--
 **yubarajkalathoki/yubarajkalathoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=yubarajkalathoki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yubarajkalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=" alt="Yubaraj's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yubarajkalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=" alt="My Github Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yubarajkalathoki&hide=html,css, shell&theme=" alt="Top Languages" />
 </a>
