@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 
 
 **Connect with me:**
+
 <a href="https://www.linkedin.com/in/yubarajkalathoki" target="_blank">
-  <img align="left" alt="Yuba Raj Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/linkedin.jpg" />
+  <img align="left" alt="Yuba Raj Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/yubarajkalathoki/yubarajkalathoki/master/assets/linkedin.jpg" />
+</a>
+
+<a href="https://www.linkedin.com/in/yubarajkalathoki" target="_blank">
+  <img align="left" alt="Yuba Raj Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/yubarajkalathoki/yubarajkalathoki/master/assets/twitter.jpg" />
 </a>
 
 <br/>
