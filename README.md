@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Connect with me:**
 
+**Connect with me:**
 <a href="https://www.linkedin.com/in/yubarajkalathoki" target="_blank">
   <img align="left" alt="Yuba Raj Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/linkedin.jpg" />
 </a>
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+
+---
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=yubarajkalathoki">
