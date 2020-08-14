@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **Connect with me:**
 
 <a href="https://www.linkedin.com/in/yubarajkalathoki" target="_blank">
-  <img align="left" alt="Yuba Raj Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/yubarajkalathoki/yubarajkalathoki/master/assets/link.png" />
+  <img align="left" alt="Yuba Raj Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/yubarajkalathoki/yubarajkalathoki/master/assets/link.jpg" />
 </a>
 
 <a href="https://twitter.com/real_yubi" target="_blank">
